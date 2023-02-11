@@ -1,0 +1,7 @@
+C:\Projetos\C_Sharp_Extras\Exercicio7\bin\Debug\Exercicio7.exe.config
+C:\Projetos\C_Sharp_Extras\Exercicio7\bin\Debug\Exercicio7.exe
+C:\Projetos\C_Sharp_Extras\Exercicio7\bin\Debug\Exercicio7.pdb
+C:\Projetos\C_Sharp_Extras\Exercicio7\obj\Debug\Exercicio7.csproj.AssemblyReference.cache
+C:\Projetos\C_Sharp_Extras\Exercicio7\obj\Debug\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Projetos\C_Sharp_Extras\Exercicio7\obj\Debug\Exercicio7.exe
+C:\Projetos\C_Sharp_Extras\Exercicio7\obj\Debug\Exercicio7.pdb
